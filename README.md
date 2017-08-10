@@ -3,7 +3,7 @@
 
 ## Forewarning
 
-THIS IS REALLY EARLY ALPHA STAGE SOFTWARE. Breaking changes will be made and any code relying on Cypher may have to be rewritten.
+THIS IS REALLY EARLY ALPHA STAGE SOFTWARE. Breaking changes will be made and any code relying on Decypher may have to be rewritten.
 
 ## What is it?
 
@@ -17,8 +17,6 @@ you work with high-level Java classes:
 
 	Person p = new Person("John")
 	Match m = new Match(p).return(p).orderBy(p.age);
-
-This makes your software 
 
 Decypher by example:
 
