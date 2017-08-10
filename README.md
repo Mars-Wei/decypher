@@ -7,7 +7,7 @@ THIS IS REALLY EARLY ALPHA STAGE SOFTWARE. Breaking changes will be made and any
 
 ## What is it?
 
-Decypher provides lightweight wrapper classes to express any Cypher statement in an object-oriented manner. Decypher classes do not directly manipulate any nodes or relationships but rather can be seen as a Cypher statement builder.
+Decypher provides lightweight wrapper classes to express any Neo4J's Cypher statement in an object-oriented manner. Decypher classes do not directly manipulate any nodes or relationships but rather can be seen as a Cypher statement builder.
 
 Instead of hardcoding your Cypher query:
 
